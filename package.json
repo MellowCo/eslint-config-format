@@ -26,8 +26,5 @@
   "homepage": "https://github.com/MellowCo/eslint-config-format#readme",
   "peerDependencies": {
     "eslint": ">=7.4.0"
-  },
-  "devDependencies": {
-    "eslint": "^8.12.0"
   }
 }
