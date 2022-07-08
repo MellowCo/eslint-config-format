@@ -1,6 +1,6 @@
 {
   "name": "@meoc/eslint-config-format",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "description": "use eslint instead of prettier for code formatting",
   "main": "index.js",
   "publishConfig": {
@@ -16,7 +16,8 @@
   },
   "keywords": [
     "spaces",
-    "eslint"
+    "eslint",
+    "format"
   ],
   "author": "MellowCo",
   "license": "ISC",

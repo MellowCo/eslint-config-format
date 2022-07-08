@@ -1,16 +1,4 @@
 module.exports = {
-  parserOptions: {
-    ecmaVersion: 2022,
-    ecmaFeatures: {
-      jsx: true,
-    },
-    sourceType: 'module',
-  },
-  env: {
-    es2021: true,
-    browser: true,
-    node: true,
-  },
   rules: {
     // 不允许连续空格
     "no-multi-spaces": "error",
