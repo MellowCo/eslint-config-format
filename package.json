@@ -1,6 +1,6 @@
 {
   "name": "@meoc/eslint-config-format",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "use eslint instead of prettier for code formatting",
   "main": "index.js",
   "publishConfig": {

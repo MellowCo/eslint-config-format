@@ -26,8 +26,8 @@ pnpm add -D eslint @meoc/eslint-config-format
   rules: {
     // 不允许连续空格
     "no-multi-spaces": "error",
-    // 空2格
-    "indent": ["error", 2],
+    // 空2格 switch case
+    "indent": ["error", 2, { "SwitchCase": 1 }],
     // 对象大括号空格 {   a:b   } => { a:b }
     "object-curly-spacing": ["error", "always"],
     // 括号去除空格 foo(   'bar'   ) =>  foo('bar');
